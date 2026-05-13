@@ -19,7 +19,7 @@
 
 Cresca is a **personal learning operating system** built for working professionals and self-taught learners who only have a few hours a day.
 
-Most people who want to learn something new — a new tech skill, a side project, a career pivot — fail not because of lack of motivation, but because of three things:
+Most people who want to learn something new  a new tech skill, a side project, a career pivot fail not because of lack of motivation, but because of three things:
 
 - ❌ **No focus** — distractions kill deep work
 - ❌ **No structure** — they don't know what to learn next or where they left off
@@ -27,7 +27,7 @@ Most people who want to learn something new — a new tech skill, a side project
 
 Cresca solves all three in one focused space.
 
-> A full stack developer who works 9–6 can open Cresca after work, see exactly where he left off on his AI/ML journey, start a distraction-free focus session, let Grok AI tell him what to study next — and log everything automatically.
+> A full stack developer who works 9–6 can open Cresca after work, see exactly where he left off on his AI/ML journey, start a distraction-free focus session, let Grok AI tell him what to study next  and log everything automatically.
 
 ---
 
