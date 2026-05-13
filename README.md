@@ -327,19 +327,6 @@ cd backend
 npm install
 ```
 
-Create `backend/.env`:
-
-```env
-PORT=5000
-DB_NAME=cresca
-DB_USER=postgres
-DB_PASSWORD=yourpassword
-DB_HOST=localhost
-JWT_SECRET=your_secret_key_here
-OPENAI_API_KEY=your_grok_api_key
-FRONTEND_URL=http://localhost:3000
-```
-
 ```bash
 npm run dev
 ```
@@ -443,16 +430,6 @@ REACT_APP_API_URL  → https://your-railway-url.up.railway.app/api
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreinn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/moreinn/moreinn/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
